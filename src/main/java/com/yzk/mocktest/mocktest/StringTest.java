@@ -42,7 +42,7 @@ public class StringTest {
 
         System.out.println(s7);
 
-
+        System.out.println("这是个啥");
 
     }
 }

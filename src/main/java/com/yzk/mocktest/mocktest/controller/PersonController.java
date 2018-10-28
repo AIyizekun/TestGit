@@ -19,6 +19,7 @@ public class PersonController {
 
 
         Person person =personService.findPersonbyname(name);
+        System.out.println("这是一个难过的故事");
 
         return ResponseEntity.ok(person);
     }
